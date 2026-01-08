@@ -1,6 +1,6 @@
-## Hi, I'm Manish 👋
+## Hi, I'm Manish Thavisi👋
 
-Computer Science student focused on PHP, WordPress, and Open Source development.  
+Computer Science student focused on PHP, WordPress,Webdevelopment and Open Source development.  
 Currently preparing for the **Associate WordPress Engineer** role at **rtCamp**.
 
 ### Skills
@@ -9,6 +9,8 @@ Currently preparing for the **Associate WordPress Engineer** role at **rtCamp**.
 - HTML, CSS, JavaScript
 - MySQL
 - Git & GitHub
+-
+
 
 ### Focus
 - Writing clean PHP code
