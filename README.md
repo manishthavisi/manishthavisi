@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Manish 👋
 
-<!--
-**manishthavisi/manishthavisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student focused on PHP, WordPress, and Open Source development.  
+Currently preparing for the **Associate WordPress Engineer** role at **rtCamp**.
 
-Here are some ideas to get you started:
+### Skills
+- PHP
+- WordPress (Themes & Plugins)
+- HTML, CSS, JavaScript
+- MySQL
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus
+- Writing clean PHP code
+- Understanding WordPress internals
+- Contributing to open-source projects
